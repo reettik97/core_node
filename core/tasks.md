@@ -1,5 +1,9 @@
 1. Explain Node and V8 in your own words ? 
-// Answer here...
+
+Node : Node.js is a open-source, cross-platform runtime environment that allows developers to create all kinds of server-side tools and applications in JavaScript.
+
+V8 : V8 engine is a runtime environment for nodejs. Node build on top of chrome V8 javascript engine. 
+
 
 2. Explain steps in REPL(here) and command to start REPL ?
 // Answer here...
